@@ -1,0 +1,8 @@
+com\mycompany\pojo\Category.class
+com\mycompany\service\CategoryService.class
+com\mycompany\controller\HomeController.class
+com\mycompany\repository\impl\CategoryRepositoryImpl.class
+com\mycompany\service\impl\CategoryServiceImpl.class
+com\mycompany\configs\MyConfigs.class
+com\mycompany\configs\DispatcherInit.class
+com\mycompany\repository\CategoryRepository.class
